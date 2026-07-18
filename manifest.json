@@ -1,12 +1,18 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 4,
+  "catalogVersion": 6,
   "categories": [
     {
       "id": "cat-0e3094",
       "name": "effet audio",
-      "color": "#ffffff",
+      "color": "#c286fe",
       "order": 1
+    },
+    {
+      "id": "cat-d01905",
+      "name": "DAW",
+      "color": "#fe4d5f",
+      "order": 2
     }
   ],
   "items": [
@@ -22,6 +28,45 @@
         "cat-0e3094"
       ],
       "version": 2
+    },
+    {
+      "id": "fl-studio-producer-edition-26-1-1-dd04cf",
+      "title": "FL Studio Producer Edition 26.1.1",
+      "torrentLink": "magnet:?xt=urn:btih:E08A04D7B24BE2E34571B16C27D450003DFF3C92&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=Image-Line%20-%20FL%20Studio%20Producer%20Edition%2026.1.1%20Build%205547%20(All%20Plugins%20Edition)%20%5B13.07.2026%5D%20(Warez%20Down)",
+      "coverImageUrl": "https://i.ibb.co/4ZNtwFr2/image.png",
+      "description": "► Supprimer la version précédente (c'est une recommandation, mais à votre discrétion)\n►Si vous utilisez OneDrive, désactivez-le pendant l'installation (si vous installez avec OneDrive activé dans les paramètres FL dans « OPTIONS » > « Paramètres du fichier » > « Dossier de données utilisateur », le mauvais chemin peut être spécifié)\n\n1. Installer flstudio_win64_26.1.1.5547.exe\n\n2. Contenu du dossier FL_Studio_26.1.1.5547-WD_placer avec remplacement dans\nCode:\nC:\\Fichiers de programme\\Ligne d'image\\FL Studio 2026\nRemarque :: Si lors de l'installation les FL indiquaient le chemin indépendamment (vers un autre disque), alors le fichier doit être remplacé dans le même dossier (vers un autre disque), et non dans celui spécifié au paragraphe №2.\n\n3. Lancement FL Studio 26.1.reg_et accepter d'apporter des modifications au registre\n",
+      "sizeLabel": "1,06 Go",
+      "dateAdded": "2026-07-18",
+      "categoryIds": [
+        "cat-d01905"
+      ],
+      "version": 2
+    },
+    {
+      "id": "fabfilter-total-bundle-2026-0e4aac",
+      "title": "FabFilter - Total Bundle 2026",
+      "torrentLink": "magnet:?xt=urn:btih:D55BD46F77B674BD6E2EF36B5E4FA9349E81DFE4&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=FabFilter%20-%20Total%20Bundle%202026.4%20-%20VST%2C%20VST3%2C%20AAX%2C%20CLAP%20x64%20%5B16.04.2026%5D(V.R)",
+      "coverImageUrl": "https://i.ibb.co/nqwbdzKw/image.png",
+      "description": "",
+      "sizeLabel": "59.3 MB",
+      "dateAdded": "2026-07-18",
+      "categoryIds": [
+        "cat-0e3094"
+      ],
+      "version": 1
+    },
+    {
+      "id": "antares-auto-tune-pro-v11-0-0-6bbdef",
+      "title": "Antares - Auto-Tune Pro v11.0.0",
+      "torrentLink": "magnet:?xt=urn:btih:6DCCFD2412F64BFEDA710A5ED7D187EC2D6F3BF9&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=Antares%20-%20Auto-Tune%20Pro%20v11.0.0%20%5BV.R%5D%20VST3%7CAAX%20%5BWIN%5D%20%5B12.08.2024%5D",
+      "coverImageUrl": "https://i.ibb.co/nMMQyPFs/image.png",
+      "description": "",
+      "sizeLabel": "88.4 MB",
+      "dateAdded": "2026-07-18",
+      "categoryIds": [
+        "cat-0e3094"
+      ],
+      "version": 1
     }
   ]
 }
