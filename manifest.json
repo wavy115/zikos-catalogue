@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 3,
+  "catalogVersion": 4,
   "categories": [
     {
       "id": "cat-3f53b8",
@@ -14,12 +14,12 @@
       "id": "photo-ecfbb6",
       "title": "photo",
       "torrentLink": "magnet:?xt=urn:btih:7BE1090E7E0E4A184D1EC464509817FBA55580EB&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=United%20Plugins%20-%20Bundle%20-%202026.7%20VST%2C%20VST3%2C%20AAX%20x64%20%5B16.07.2026%5D(V.R)",
-      "coverImageUrl": "https://i.ibb.co/PvZtnsP5/7dc6555a68f601b7a254cff282420dd5.jpg",
+      "coverImageUrl": "https://ibb.co/CpmDsxtt",
       "description": "",
       "sizeLabel": "",
       "dateAdded": "2026-07-18",
       "categoryIds": [],
-      "version": 2
+      "version": 3
     }
   ]
 }
