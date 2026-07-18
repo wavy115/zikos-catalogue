@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 6,
+  "catalogVersion": 4,
   "categories": [
     {
       "id": "cat-3f53b8",
@@ -9,32 +9,5 @@
       "order": 1
     }
   ],
-  "items": [
-    {
-      "id": "ableton-live-12-suite-v12-4-3-cd390c",
-      "title": "Ableton - Live 12 Suite v12.4.3",
-      "torrentLink": "magnet:?xt=urn:btih:5EA7A6F5C5D72BF0E56EBC69240F649A299295B0&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Ableton%20-%20Live%2012%20Suite%20v12.4.3%20x64%20%5B14.07.2026%2C%20Multi%2C%20NO%20RUS%5D%20(R2R)",
-      "coverImageUrl": "https://i.ibb.co/zWc0cwbj/08c020a136f479ec287db5fcf7b4bed0.png",
-      "description": "",
-      "sizeLabel": "6gb",
-      "dateAdded": "2026-07-18",
-      "categoryIds": [
-        "cat-3f53b8"
-      ],
-      "version": 1
-    },
-    {
-      "id": "analogx-genesis-pro-2-1-0-53d728",
-      "title": "AnalogX - Genesis Pro 2.1.0",
-      "torrentLink": "magnet:?xt=urn:btih:46E245789855724CFA900874091C8A8D952168B9&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=AnalogX%20-%20Genesis%20Pro%202.1.0%20VST3%20x64%20%5B7.15.2026%5D%20V.R.",
-      "coverImageUrl": "https://i.ibb.co/PvZtnsP5/7dc6555a68f601b7a254cff282420dd5.jpg",
-      "description": "",
-      "sizeLabel": "",
-      "dateAdded": "2026-07-18",
-      "categoryIds": [
-        "cat-3f53b8"
-      ],
-      "version": 1
-    }
-  ]
+  "items": []
 }
