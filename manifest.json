@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 8,
+  "catalogVersion": 10,
   "categories": [
     {
       "id": "cat-0e3094",
@@ -123,6 +123,45 @@
       "dateAdded": "2026-07-18",
       "categoryIds": [
         "cat-7230e3"
+      ],
+      "version": 1
+    },
+    {
+      "id": "acustica-audio-ash-ultra-e9c88a",
+      "title": "Acustica Audio - ASH + Ultra",
+      "torrentLink": "magnet:?xt=urn:btih:ACD2DF5A33ACFE578617CEEC05570413AC194258&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Acustica%20Audio%20-%20ASH%20%2B%20Ultra%202023%20REPACK%20VST%2C%20VST3%2C%20AAX%20x64%20%5B26.11.2023%5D",
+      "coverImageUrl": "https://i.ibb.co/DHwhsdCM/image.png",
+      "description": "Installe -> Acustica Audio - ASH 2023.exe \n                 Acustica Audio - ASH Ultra 2023.exe",
+      "sizeLabel": "268.5 MB",
+      "dateAdded": "2026-07-18",
+      "categoryIds": [
+        "cat-0e3094"
+      ],
+      "version": 1
+    },
+    {
+      "id": "valhalla-dsp-valhalla-vintageverb-v4-0-5-12bf0e",
+      "title": "Valhalla DSP - Valhalla VintageVerb v4.0.5",
+      "torrentLink": "magnet:?xt=urn:btih:E0E977019E09B9B058E170A447475FDC766968A2&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Valhalla%20DSP%20-%20Valhalla%20VintageVerb%20v4.0.5%20VST%2C%20VST3%2C%20AAX%20x64%20%5B03.2024%5D%20(R2R)",
+      "coverImageUrl": "https://i.ibb.co/5W3j3LHT/image.png",
+      "description": "Après avoir installé le plugin, exécutez ValhallaDSP_KeyGen.exe, sélectionnez le nom du plugin dans Produit, entrez le nom (dans deux champs), entrez n'importe quel Email, appuyez sur « Générer » et enregistrez le fichier résultant\n\nLorsque le plugin est lancé, pointez vers le fichier enregistré.",
+      "sizeLabel": "16.4 MB",
+      "dateAdded": "2026-07-18",
+      "categoryIds": [
+        "cat-0e3094"
+      ],
+      "version": 1
+    },
+    {
+      "id": "oeksound-soothe2-v-1-1-2-3dbee0",
+      "title": "Oeksound - Soothe2 v.1.1.2",
+      "torrentLink": "magnet:?xt=urn:btih:08775F0AD19026F3A61E1C6AAF4A5B28AA8AFFF1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=Oeksound%20-%20Soothe2%20v.1.1.2%20VST%2C%20VST3%2C%20AAX%20x64%20%5B12.2020%5D",
+      "coverImageUrl": "https://i.ibb.co/7tbq6xWy/image.png",
+      "description": "Installe -> Setup soothe2 v1.1.2.exe",
+      "sizeLabel": "29.3 MB",
+      "dateAdded": "2026-07-18",
+      "categoryIds": [
+        "cat-0e3094"
       ],
       "version": 1
     }
