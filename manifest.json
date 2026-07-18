@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 6,
+  "catalogVersion": 8,
   "categories": [
     {
       "id": "cat-0e3094",
@@ -13,6 +13,12 @@
       "name": "DAW",
       "color": "#fe4d5f",
       "order": 2
+    },
+    {
+      "id": "cat-7230e3",
+      "name": "Outil",
+      "color": "#006eff",
+      "order": 3
     }
   ],
   "items": [
@@ -65,6 +71,58 @@
       "dateAdded": "2026-07-18",
       "categoryIds": [
         "cat-0e3094"
+      ],
+      "version": 1
+    },
+    {
+      "id": "ableton-live-12-suite-v12-4-3-afa672",
+      "title": "Ableton - Live 12 Suite v12.4.3",
+      "torrentLink": "magnet:?xt=urn:btih:5EA7A6F5C5D72BF0E56EBC69240F649A299295B0&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Ableton%20-%20Live%2012%20Suite%20v12.4.3%20x64%20%5B14.07.2026%2C%20Multi%2C%20NO%20RUS%5D%20(R2R)",
+      "coverImageUrl": "https://i.ibb.co/zWc0cwbj/08c020a136f479ec287db5fcf7b4bed0.png",
+      "description": "1. Vous devez l'avoir installé le dernier Système TEAM R2R ► version TÉLÉCHARGER\n\n2. Installer Installer Ableton Live 12 Suite.exe\n\n3. Placer un fichier vcruntime140_1.dll au dossier avec le programme installé\n(Par défaut C:\\ProgramData\\Ableton\\Live 12 Suite\\Programme)\nIMPORTANT !\nN'essayez JAMAIS de placer un fichier vcruntime140_1.dll vers le dossier system32 !!!\nN'essayez JAMAIS d'écrire le \"vcruntime140_1.dll\" dans le répertoire system32 !\n\n4. Lancement Ableton et dans la fenêtre d'autorisation cliquez sur « Pas d'internet sur cet ordinateur ». Copiez « Votre code matériel » depuis la fenêtre qui apparaît.\nRemarque : lorsque vous cliquez sur « Enregistrer », vous pouvez obtenir un fichier texte avec le code.\n5. Lancement WM_Ableton.r2rwm, insérez le code copié, cliquez GÉNÉRER et enregistrez le fichier résultant Autoriser.auz.\n\n6. Faites glisser et déposez le fichier résultant dans la fenêtre d'enregistrement hors ligne Autoriser votre logiciel\nRemarque : si vous ne pouvez pas glisser-déposer le fichier de licence dans la fenêtre du programme, fermez Ableton Live Suite et exécutez le fichier de licence résultant à l'aide de la fonction « Ouvrir avec » Ableton Live Suite.\nVous pouvez mettre à jour(après la mise à jour, si nécessaire, replacez le fichier vcruntime140_1.dllau dossier avec le programme installé)",
+      "sizeLabel": "6,04 Go",
+      "dateAdded": "2026-07-18",
+      "categoryIds": [
+        "cat-d01905"
+      ],
+      "version": 1
+    },
+    {
+      "id": "izotope-rx-12-audio-editor-advanced-v12--2a256b",
+      "title": "iZotope - RX 12 Audio Editor Advanced v12.0.0",
+      "torrentLink": "magnet:?xt=urn:btih:322598581261AE73C365B1BA2A7C1D5763DBC0BE&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=iZotope%20-%20RX%2012%20Audio%20Editor%20Advanced%20v12.0.0%20%5BR2R%5D%20VST3%7CAAX%7CSAL%7CARA%20%5BWIN%5D%20%5B29.04.2026%5D",
+      "coverImageUrl": "https://i.ibb.co/60JSmP2j/image.png",
+      "description": "",
+      "sizeLabel": "2.38 GB",
+      "dateAdded": "2026-07-18",
+      "categoryIds": [
+        "cat-7230e3"
+      ],
+      "version": 1
+    },
+    {
+      "id": "izotope-ozone-12-advanced-v12-1-0-1eca8c",
+      "title": "iZotope - Ozone 12 Advanced v12.1.0",
+      "torrentLink": "magnet:?xt=urn:btih:A8C31B4ACA47B8949A0004B362BFDE568DF53DE1&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=iZotope%20-%20Ozone%2012%20Advanced%20v12.1.0%20VST3%2C%20AAX%20x64%20%7BR2R%7D%20%5B04.12.2025%5D",
+      "coverImageUrl": "https://i.ibb.co/LXShVzw9/image.png",
+      "description": "installe -> Setup Ozone 12 Advanced v12.1.0.exe",
+      "sizeLabel": "852 MB",
+      "dateAdded": "2026-07-18",
+      "categoryIds": [
+        "cat-0e3094"
+      ],
+      "version": 1
+    },
+    {
+      "id": "minimeters-1-0-29-252-80ba3f",
+      "title": "MiniMeters 1.0.29.252",
+      "torrentLink": "magnet:?xt=urn:btih:228FE7E1CC5B674A52620DFDD84A996DBBAE6BF9&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=MiniMeters%201.0.29.252%20STANDALONE%2C%20VST3%2C%20CLAP%2C%20AU%20(WIN%2FmacOS%2FLiNUX)%20%5B04.2026%5D",
+      "coverImageUrl": "https://i.ibb.co/VWsFqGRf/image.png",
+      "description": "Installe -> MiniMeters v1.0.29.252 Installer.exe\n\nMAC -> MiniMeters v1.0.29.252.dmg",
+      "sizeLabel": "355.4 MB",
+      "dateAdded": "2026-07-18",
+      "categoryIds": [
+        "cat-7230e3"
       ],
       "version": 1
     }
