@@ -1,6 +1,25 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 1,
-  "categories": [],
-  "items": []
+  "catalogVersion": 2,
+  "categories": [
+    {
+      "id": "cat-3f53b8",
+      "name": "DAW",
+      "color": "#ffffff",
+      "order": 1
+    }
+  ],
+  "items": [
+    {
+      "id": "photo-ecfbb6",
+      "title": "photo",
+      "torrentLink": "magnet:?xt=urn:btih:31f374b7c9f87dbd605d73af94b6a1293aa750b3&xt=urn:btmh:1220da31b39420a13adc05e5e28c7907b64ec6d995ed894973abe49eebf2678f77b2&dn=0a7c06daf0fb4f2d78d18ce9d2dd4070.jpg&xl=35850",
+      "coverImageUrl": "https://i.ibb.co/PvZtnsP5/7dc6555a68f601b7a254cff282420dd5.jpg",
+      "description": "",
+      "sizeLabel": "",
+      "dateAdded": "2026-07-18",
+      "categoryIds": [],
+      "version": 1
+    }
+  ]
 }
