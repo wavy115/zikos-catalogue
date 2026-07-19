@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 10,
+  "catalogVersion": 12,
   "categories": [
     {
       "id": "cat-0e3094",
@@ -19,6 +19,12 @@
       "name": "Outil",
       "color": "#006eff",
       "order": 3
+    },
+    {
+      "id": "cat-373040",
+      "name": "Instrument",
+      "color": "#00ff88",
+      "order": 4
     }
   ],
   "items": [
@@ -27,26 +33,26 @@
       "title": "Waves - Ultimate 17 v2026",
       "torrentLink": "magnet:?xt=urn:btih:1E641C0CFF0F7D54CA5C5F7FE9A895309C8DF17C&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Waves%20-%20Ultimate%2017%20v2026.06.23%20%5BR2R%5D%20VST%7CVST3%7CAAX%7CSAL%20%5BWIN%5D%20%5B24.06.2026%5D",
       "coverImageUrl": "https://i.ibb.co/7tKsjySY/image.png",
-      "description": "",
+      "description": "1. Installe -> Setup Ultimate v2026.06.23.exe\n2. Lance -> R2R_Kill_Waves_Background_Process.cmd",
       "sizeLabel": "9.88 GB",
       "dateAdded": "2026-07-18",
       "categoryIds": [
         "cat-0e3094"
       ],
-      "version": 2
+      "version": 3
     },
     {
       "id": "fl-studio-producer-edition-26-1-1-dd04cf",
       "title": "FL Studio Producer Edition 26.1.1",
       "torrentLink": "magnet:?xt=urn:btih:E08A04D7B24BE2E34571B16C27D450003DFF3C92&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=Image-Line%20-%20FL%20Studio%20Producer%20Edition%2026.1.1%20Build%205547%20(All%20Plugins%20Edition)%20%5B13.07.2026%5D%20(Warez%20Down)",
       "coverImageUrl": "https://i.ibb.co/4ZNtwFr2/image.png",
-      "description": "► Supprimer la version précédente (c'est une recommandation, mais à votre discrétion)\n►Si vous utilisez OneDrive, désactivez-le pendant l'installation (si vous installez avec OneDrive activé dans les paramètres FL dans « OPTIONS » > « Paramètres du fichier » > « Dossier de données utilisateur », le mauvais chemin peut être spécifié)\n\n1. Installer flstudio_win64_26.1.1.5547.exe\n\n2. Contenu du dossier FL_Studio_26.1.1.5547-WD_placer avec remplacement dans\nCode:\nC:\\Fichiers de programme\\Ligne d'image\\FL Studio 2026\nRemarque :: Si lors de l'installation les FL indiquaient le chemin indépendamment (vers un autre disque), alors le fichier doit être remplacé dans le même dossier (vers un autre disque), et non dans celui spécifié au paragraphe №2.\n\n3. Lancement FL Studio 26.1.reg_et accepter d'apporter des modifications au registre\n",
+      "description": "► Supprimer la version précédente (c'est une recommandation, mais à votre discrétion)\n►Si vous utilisez OneDrive, désactivez-le pendant l'installation (si vous installez avec OneDrive activé dans les paramètres FL dans « OPTIONS » > « Paramètres du fichier » > « Dossier de données utilisateur », le mauvais chemin peut être spécifié)\n\n1. Installer flstudio_win64_26.1.1.5547.exe\n\n2. Contenu du dossier FL_Studio_26.1.1.5547-WD_placer avec remplacement dans\nCode:\nC:\\Program Files\\Image-Line\\FL Studio 2026\nRemarque :: Si lors de l'installation les FL indiquaient le chemin indépendamment (vers un autre disque), alors le fichier doit être remplacé dans le même dossier (vers un autre disque), et non dans celui spécifié au paragraphe №2.\n\n3. Lancement FL Studio 26.1.reg_et accepter d'apporter des modifications au registre\n",
       "sizeLabel": "1,06 Go",
       "dateAdded": "2026-07-18",
       "categoryIds": [
         "cat-d01905"
       ],
-      "version": 2
+      "version": 3
     },
     {
       "id": "fabfilter-total-bundle-2026-0e4aac",
@@ -162,6 +168,45 @@
       "dateAdded": "2026-07-18",
       "categoryIds": [
         "cat-0e3094"
+      ],
+      "version": 1
+    },
+    {
+      "id": "soundtoys-the-ultimate-effects-d5cda8",
+      "title": "SoundToys - The Ultimate Effects",
+      "torrentLink": "magnet:?xt=urn:btih:A6723FC86A32DF4474C82181B321DE7D7A1A89F9&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=SoundToys%20-%20The%20Ultimate%20Effects%20Solution%205.0.1.10839%20VST%20x86%20x64%20%5B19.12.2015%5D",
+      "coverImageUrl": "https://i.ibb.co/9k1tN5Sw/image.png",
+      "description": "Installe -> Setup.exe",
+      "sizeLabel": "512.8 MB",
+      "dateAdded": "2026-07-19",
+      "categoryIds": [
+        "cat-0e3094"
+      ],
+      "version": 1
+    },
+    {
+      "id": "native-instruments-superstarsaw-v1-0-0-09cd69",
+      "title": "Native Instruments - SuperStarSaw v1.0.0",
+      "torrentLink": "magnet:?xt=urn:btih:97059EE531F85409A17D4525309EF59FED323727&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Native%20Instruments%20-%20SuperStarSaw%20v1.0.0%20VST3i%2C%20AAX%20x64%20%7Bbobdule%7D%20%5B18.07.2026%5D",
+      "coverImageUrl": "https://i.ibb.co/4CZZHpC/image.png",
+      "description": "1. Installe -> SuperStarSaw_1.0.0_Installer.exe.\n2. Exécute -> SuperStarSaw patcher.exe et cliquez sur «Patch», vous serez invité à spécifier le chemin d'accès au plugin installé.\nSuivez le chemin suivant :\n\nC:\\Program Files\\Common Files\\VST3\\\n\n[Cliquez deux fois pour ouvrir] >>SuperStarSaw.vst3\\Contents\\x86_64-win et sélectionne le fichier SuperStarSaw.vst3\n\npour appliquer un patch au plugin.",
+      "sizeLabel": "123 MB",
+      "dateAdded": "2026-07-19",
+      "categoryIds": [
+        "cat-373040"
+      ],
+      "version": 1
+    },
+    {
+      "id": "xfer-records-serum-v2-0-24-ea39a1",
+      "title": "Xfer Records - Serum v2.0.24",
+      "torrentLink": "magnet:?xt=urn:btih:064C95752623079125C2349D4DBDC6212A48E796&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Xfer%20Records%20-%20Serum%20v2.0.24b%20Update%20(AAX%2C%20VST3)%5B24.11.2025%5D(V.R%2CTCD)",
+      "coverImageUrl": "https://i.ibb.co/yFPcZxqc/image.png",
+      "description": "Installe -> Xfer.Records.Serum.2.v2.0.24b-V.R,TCD.exe",
+      "sizeLabel": "18.1 MB",
+      "dateAdded": "2026-07-19",
+      "categoryIds": [
+        "cat-373040"
       ],
       "version": 1
     }
