@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 12,
+  "catalogVersion": 14,
   "categories": [
     {
       "id": "cat-0e3094",
@@ -25,6 +25,12 @@
       "name": "Instrument",
       "color": "#00ff88",
       "order": 4
+    },
+    {
+      "id": "cat-93b903",
+      "name": "Indispensable",
+      "color": "#ff7300",
+      "order": 5
     }
   ],
   "items": [
@@ -37,9 +43,10 @@
       "sizeLabel": "9.88 GB",
       "dateAdded": "2026-07-18",
       "categoryIds": [
-        "cat-0e3094"
+        "cat-0e3094",
+        "cat-93b903"
       ],
-      "version": 3
+      "version": 4
     },
     {
       "id": "fl-studio-producer-edition-26-1-1-dd04cf",
@@ -63,9 +70,10 @@
       "sizeLabel": "59.3 MB",
       "dateAdded": "2026-07-18",
       "categoryIds": [
-        "cat-0e3094"
+        "cat-0e3094",
+        "cat-93b903"
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "antares-auto-tune-pro-v11-0-0-6bbdef",
@@ -76,9 +84,10 @@
       "sizeLabel": "88.4 MB",
       "dateAdded": "2026-07-18",
       "categoryIds": [
-        "cat-0e3094"
+        "cat-0e3094",
+        "cat-93b903"
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "ableton-live-12-suite-v12-4-3-afa672",
@@ -154,9 +163,10 @@
       "sizeLabel": "16.4 MB",
       "dateAdded": "2026-07-18",
       "categoryIds": [
-        "cat-0e3094"
+        "cat-0e3094",
+        "cat-93b903"
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "oeksound-soothe2-v-1-1-2-3dbee0",
