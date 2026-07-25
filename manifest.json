@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 16,
+  "catalogVersion": 18,
   "categories": [
     {
       "id": "cat-0e3094",
@@ -231,13 +231,13 @@
       "title": "Native Instruments - Traktor Pro 4 4.0.2",
       "torrentLink": "magnet:?xt=urn:btih:D56FB312F07B2B923F268DEDF550694F5DFF920B&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Native%20Instruments%20-%20Traktor%20Pro%204%204.0.2%20x64%20%5B2024%2C%20ENG%5D",
       "coverImageUrl": "https://i.ibb.co/Nzhx8YL/image.png",
-      "description": "",
+      "description": "0 -> Supprime l'ancienne version.\n\n1 -> Installe le nouveau.\n\n2 -> allez dans « %COMMONPROGRAMFILES%\\Native Instruments\\Service Center\\ ». \n\nCopiez le fichier « NativeAccess.xml » dans le dossier\n\n!! ESQUIVE L'ETAPE SI LE FICHIER N'HEXISTE PAS !!\n\n3 -> Exécute un keygen en tant qu'administrateur\nActiver le permis de tracteur requis\n\n4 -> Profite",
       "sizeLabel": "1.25 GB",
       "dateAdded": "2026-07-25",
       "categoryIds": [
         "cat-17f681"
       ],
-      "version": 2
+      "version": 3
     }
   ]
 }
