@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 14,
+  "catalogVersion": 16,
   "categories": [
     {
       "id": "cat-0e3094",
@@ -31,6 +31,12 @@
       "name": "Indispensable",
       "color": "#ff7300",
       "order": 5
+    },
+    {
+      "id": "cat-17f681",
+      "name": "DJ",
+      "color": "#ffe53d",
+      "order": 6
     }
   ],
   "items": [
@@ -219,6 +225,19 @@
         "cat-373040"
       ],
       "version": 1
+    },
+    {
+      "id": "native-instruments-traktor-pro-4-4-0-2-27887b",
+      "title": "Native Instruments - Traktor Pro 4 4.0.2",
+      "torrentLink": "magnet:?xt=urn:btih:D56FB312F07B2B923F268DEDF550694F5DFF920B&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Native%20Instruments%20-%20Traktor%20Pro%204%204.0.2%20x64%20%5B2024%2C%20ENG%5D",
+      "coverImageUrl": "https://i.ibb.co/Nzhx8YL/image.png",
+      "description": "",
+      "sizeLabel": "1.25 GB",
+      "dateAdded": "2026-07-25",
+      "categoryIds": [
+        "cat-17f681"
+      ],
+      "version": 2
     }
   ]
 }
