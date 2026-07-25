@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 18,
+  "catalogVersion": 20,
   "categories": [
     {
       "id": "cat-0e3094",
@@ -215,16 +215,16 @@
     },
     {
       "id": "xfer-records-serum-v2-0-24-ea39a1",
-      "title": "Xfer Records - Serum v2.0.24",
-      "torrentLink": "magnet:?xt=urn:btih:064C95752623079125C2349D4DBDC6212A48E796&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Xfer%20Records%20-%20Serum%20v2.0.24b%20Update%20(AAX%2C%20VST3)%5B24.11.2025%5D(V.R%2CTCD)",
+      "title": "Xfer Records - Serum v2.0.20",
+      "torrentLink": "magnet:?xt=urn:btih:F5CABA45B0A28281CD697D8EF2E4C2B6377FFB44&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=Xfer%20Records%20-%20Serum%202%20v2.0.20%20%5BV.R%5D%20VST3%7CAAX%20%5BWIN%5D%20%5B03.07.2025%5D",
       "coverImageUrl": "https://i.ibb.co/yFPcZxqc/image.png",
-      "description": "Installe -> Xfer.Records.Serum.2.v2.0.24b-V.R,TCD.exe",
-      "sizeLabel": "18.1 MB",
+      "description": "1. Installe -> Install_Xfer_Serum2_2.0.20.exe\n2. Lance -> Xfer Records Serum v2.0.20 patch.exe",
+      "sizeLabel": "1.23 GB",
       "dateAdded": "2026-07-19",
       "categoryIds": [
         "cat-373040"
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "native-instruments-traktor-pro-4-4-0-2-27887b",
