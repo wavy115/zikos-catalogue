@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 20,
+  "catalogVersion": 22,
   "categories": [
     {
       "id": "cat-0e3094",
@@ -136,16 +136,16 @@
     },
     {
       "id": "minimeters-1-0-29-252-80ba3f",
-      "title": "MiniMeters 1.0.29.252",
-      "torrentLink": "magnet:?xt=urn:btih:228FE7E1CC5B674A52620DFDD84A996DBBAE6BF9&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=MiniMeters%201.0.29.252%20STANDALONE%2C%20VST3%2C%20CLAP%2C%20AU%20(WIN%2FmacOS%2FLiNUX)%20%5B04.2026%5D",
+      "title": "MiniMeters 1.0.30.358",
+      "torrentLink": "magnet:?xt=urn:btih:CCE1D178CC43D4D044DC3D004EFF954F484478FE&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=MiniMeters%201.0.30.358%20STANDALONE%2C%20VST3%2C%20CLAP%2C%20AU%20(WIN%2FmacOS%2FLiNUX)%20%5B07.2026%5D",
       "coverImageUrl": "https://i.ibb.co/VWsFqGRf/image.png",
-      "description": "Installe -> MiniMeters v1.0.29.252 Installer.exe\n\nMAC -> MiniMeters v1.0.29.252.dmg",
-      "sizeLabel": "355.4 MB",
+      "description": "Installe -> MiniMeters v1.0.30.358 Installer.exe\n\nMAC -> MiniMeters v1.0.30.358.dmg",
+      "sizeLabel": "351.9 MB",
       "dateAdded": "2026-07-18",
       "categoryIds": [
         "cat-7230e3"
       ],
-      "version": 1
+      "version": 2
     },
     {
       "id": "acustica-audio-ash-ultra-e9c88a",
@@ -238,6 +238,32 @@
         "cat-17f681"
       ],
       "version": 3
+    },
+    {
+      "id": "output-portal-v1-2-1-92c461",
+      "title": "Output - Portal v1.2.1",
+      "torrentLink": "magnet:?xt=urn:btih:E27EDE234014906498C08E075512C8FDEEB7A8A4&tr=http%3A%2F%2Fbt4.t-ru.org%2Fann%3Fmagnet&dn=Output%20-%20Portal%20v1.2.1%20VST%2FVST3%2FAAX%20x86%20x64%20%5B13.3.2023%5D-R2R",
+      "coverImageUrl": "https://i.ibb.co/cc7f5Rc3/image.png",
+      "description": "1 -> installe Setup Portal v1.2.1\n2 -> ouvre ton DAW et ouvre portal, (active offline) copie le code\n3 -> lance Output_CR_KeyGen.exe colle le code, clique sur generate et exit\n4 -> sur portal fait choisir le fichier -> bureau -> choisie le fichier et active",
+      "sizeLabel": "39,8 Mo",
+      "dateAdded": "2026-07-26",
+      "categoryIds": [
+        "cat-0e3094"
+      ],
+      "version": 2
+    },
+    {
+      "id": "output-thermal-v1-2-1-a77e93",
+      "title": "Output - Thermal v1.2.1",
+      "torrentLink": "magnet:?xt=urn:btih:36D1DC5BB16DF1A6046FC8C64D35825D31495472&tr=http%3A%2F%2Fbt3.t-ru.org%2Fann%3Fmagnet&dn=Output%20-%20Thermal%20v1.2.1%20VST%2FVST3%2FAAX%20x86%20x64%20%5B13.3.2023%5D-R2R",
+      "coverImageUrl": "https://i.ibb.co/LXsdFkbD/image.png",
+      "description": "1 -> installe Setup Thermal v1.2.1\n2 -> ouvre ton DAW et ouvre Thermal, (active offline) copie le code\n3 -> lance Output_CR_KeyGen.exe colle le code, clique sur generate et exit\n4 -> sur Thermal fait choisir le fichier -> bureau -> choisie le fichier et active",
+      "sizeLabel": "37.5 MB",
+      "dateAdded": "2026-07-26",
+      "categoryIds": [
+        "cat-0e3094"
+      ],
+      "version": 2
     }
   ]
 }
