@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 22,
+  "catalogVersion": 24,
   "categories": [
     {
       "id": "cat-0e3094",
@@ -264,6 +264,32 @@
         "cat-0e3094"
       ],
       "version": 2
+    },
+    {
+      "id": "minimal-audio-rift-v2-2-0-e59273",
+      "title": "Minimal Audio - Rift v2.2.0",
+      "torrentLink": "magnet:?xt=urn:btih:E409077711389606F9AE95CAAFDD4E2D0E4829CE&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Minimal%20Audio%20-%20Rift%20v2.2.0r2%20VST%2C%20VST3%2C%20AAX%20x64%20%5B27.02.2024%5D%20(TCD)",
+      "coverImageUrl": "https://i.ibb.co/qLDhYxVz/image.png",
+      "description": "Installe -> Minimal.Audio.Rift.v2.2.0r2-TCD.exe",
+      "sizeLabel": "15.8 MB",
+      "dateAdded": "2026-07-26",
+      "categoryIds": [
+        "cat-0e3094"
+      ],
+      "version": 1
+    },
+    {
+      "id": "lunacy-audio-beam-v2-1-0-1d2d55",
+      "title": "Lunacy Audio - BEAM v2.1.0",
+      "torrentLink": "magnet:?xt=urn:btih:935FACDBCBE9B5A3320E5860BB3171DC5633A4E8&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Lunacy%20Audio%20-%20BEAM%20v2.1.0%20VST3%2C%20AAX%20x64%20%7BR2R%7D%20%5B14.11.2025%5D",
+      "coverImageUrl": "https://i.ibb.co/S4bs2vVF/image.png",
+      "description": "1 -> Lance Lunacy Audio Hosts Patch en tant qu'administrateur\n2 -> Installe Setup-BEAM v2.1.0.exe\n3 -> Lance LunacyAudio_KeyGen.exe et enregistrez BEAM.\n",
+      "sizeLabel": "212.6 MB",
+      "dateAdded": "2026-07-26",
+      "categoryIds": [
+        "cat-0e3094"
+      ],
+      "version": 1
     }
   ]
 }
