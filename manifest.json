@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "catalogVersion": 30,
+  "catalogVersion": 32,
   "categories": [
     {
       "id": "cat-0e3094",
@@ -294,7 +294,7 @@
     {
       "id": "nuro-audio-xpitch-v1-5-1-b3b797",
       "title": "Nuro Audio - Effects Bundle v2026.05",
-      "torrentLink": "magnet:?xt=urn:btih:A636979B227753F329E371BDB600A93F9213F790&tr=http%3A%2F%2Fbt2.t-ru.org%2Fann%3Fmagnet&dn=Nuro%20Audio%20-%20Xpitch%20v1.5.1%20VST3%2C%20AAX%20x64%20%5B15.03.2026%5D(R2R)",
+      "torrentLink": "magnet:?xt=urn:btih:A0CBCE8073AB4D68D9442CAE40D2B0ECE55EA1DC&tr=http%3A%2F%2Fbt.t-ru.org%2Fann%3Fmagnet&dn=Nuro%20Audio%20-%20Effects%20Bundle%20v2026.05%20VST3%2C%20AAX%20x64%20%5B6.05.2026%5D(Zom)",
       "coverImageUrl": "https://i.ibb.co/HLZgnnLW/image.png",
       "description": "1 -> installe Nuro Audio - Effects Bundle 2026.05 - Zom.exe\n\nXrack - 1.5.1\nXvox - 1.1.3\nXpitch - 1.5.1\nXrider - 1.5.1\nBlockchain - 1.1.3\nBlockchain Ultra - 1.1.3\n\nXrack Pro - 1.5.1:\nXrack Comp\nXrack Max\nXrack Mod\nXrack Pro\nXrack Sat\nXrack Tone\nXrack Transient\n\nXvox Pro - 1.5.2:\nXvox Comp\nXvox DS\nXvox Pro\nXvox SFX\nXvox Space\nXvox Tone\n\nSupernova - 1.5.1:\nSupernova Delay\nSupernova Verb\nSupernova\n\nFlexion - 1.0.0",
       "sizeLabel": "383.8 MB",
@@ -303,7 +303,7 @@
         "cat-0e3094",
         "cat-93b903"
       ],
-      "version": 2
+      "version": 3
     }
   ]
 }
